@@ -1,0 +1,15 @@
+   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+      <path
+        fill="none"
+        stroke="#4aa9c9"
+        strokeLinecap="round"
+        strokeWidth="100"
+        d="M125.112 191.928c16.592 2.434 39.39 18.715 67.265 9.866 27.874-8.85 26.714-44.634 45.74-45.74 19.025-1.106 12.364 49.44 31.39 41.255 19.025-8.185 27.157-74.218 45.74-74.439 18.583-.221 8.58 67.127 29.596 73.543 21.016 6.415 41.89-35.81 55.605-47.534"
+      ></path>
+      <defs>
+        <linearGradient id="SvgjsLinearGradient1002">
+          <stop offset="0" stopColor="hsl(37, 99%, 67%)"></stop>
+          <stop offset="1" stopColor="hsl(316, 73%, 52%)"></stop>
+        </linearGradient>
+      </defs>
+    </svg>

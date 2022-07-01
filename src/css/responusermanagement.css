@@ -1,0 +1,85 @@
+@media (max-width: 500px){
+ .adduser {
+  padding: .5rem 0rem !important;
+ }
+ .btn-adduser {
+  padding: .2rem .5rem;
+  font-size: .7rem !important;
+  font-weight: bold;
+}
+.btn-fill {
+  padding: .4rem .9rem !important;
+}
+.bloc-tabs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tabs {
+  padding: .5rem !important;
+  text-align: center;
+  width: 50%;
+}
+.form-name {
+  padding-right: 1rem !important;
+}
+.form-head{
+  font-size: 1rem;
+}
+.form-body {
+  font-size: 1rem;
+}
+.tabel-data {
+  overflow-y: hidden !important;
+  width: 100% !important;
+}
+
+.content {
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.btn-kiri {
+  width: 30px;
+  border-radius: .2rem !important;
+  height: 20px;
+  padding: .4rem .4rem !important;
+  font-size: .7rem;
+}
+.btn-kanan {
+  width: 30px;
+  border-radius: .2rem !important;
+  height: 20px;
+  padding: .4rem .4rem !important;
+  font-size: .7rem;
+}
+.menu-indicator {
+  width: 20px !important;
+}
+.indicator {
+  width: 60px !important;
+  border-radius: .2rem;
+  height: 20px;
+  font-size: .7rem !important;
+  padding: 0rem .2rem;
+}
+
+.txt-panig {
+  font-size: .7rem;
+}
+
+
+
+}
+
+@media (min-width: 768px){
+ 
+}
+
+@media (min-width: 1248px){
+  
+}
+@media (min-width: 1440px){
+ 
+}

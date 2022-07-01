@@ -1,0 +1,35 @@
+@media (max-width: 500px){
+  .containerNav {
+    height: 2.5rem !important;
+  }
+  .dashNav {
+    padding: .5rem 1rem !important;
+  }
+  .logo{
+    font-size: 1rem !important;
+  }
+
+  .tbl {
+    font-size: 1rem !important;
+  }
+.btn-nav-dash {
+  z-index: 9 !important;
+  background-color: transparent;
+  border: 0px solid;
+  color: rgb(11, 159, 26);
+  font-size: 1.3rem;
+}
+  
+
+}
+
+@media (min-width: 768px){
+ 
+}
+
+@media (min-width: 1248px){
+  
+}
+@media (min-width: 1440px){
+ 
+}

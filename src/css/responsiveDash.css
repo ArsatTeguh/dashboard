@@ -1,0 +1,38 @@
+@media (max-width: 500px) {
+  .sidebars {
+    width: 50vw !important;
+    position: absolute;
+    z-index: 8 !important;
+  }
+  .actives {
+    display: none;
+  }
+  .profil-dash {
+    display: none;
+  }
+  .close-side {
+    display: none !important;
+  }
+  .paginattionBttns{
+    padding: 0 !important;
+    justify-content: center !important;
+  }
+  .paginattionBttns .previousBttn{
+    display: none;
+  }
+  .paginattionBttns .nextBttn{
+ display: none;
+  }
+
+ 
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 1190px) {
+
+
+}
+@media (min-width: 1440px) {
+}
